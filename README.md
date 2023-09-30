@@ -1,2 +1,4 @@
 # cloud9
-Michael Rojohn Cubars
+
+Michael Rojohn Cubar - Bachelor of Science and Computer Science
+
